@@ -1,2 +1,2 @@
 # gentoo
-##自用的gentoo配置文件
+**自用Gentoo配置文件**
